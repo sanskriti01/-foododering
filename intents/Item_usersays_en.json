@@ -1,0 +1,131 @@
+[
+  {
+    "id": "addd9874-ef5b-4573-ae76-a5e86d290d7c",
+    "data": [
+      {
+        "text": "vegetable",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " samosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e82a7641-8e4f-4717-a126-6808365dd494",
+    "data": [
+      {
+        "text": "paneer",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " tikka",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "358658fc-1d3b-47b0-b0df-d5e830a39ef7",
+    "data": [
+      {
+        "text": "tomato",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " soup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45839b27-d82c-40f2-8a7d-a07a3c1dc224",
+    "data": [
+      {
+        "text": "jamun",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "06af6fd2-d2a9-432d-9da4-1af9e490dce5",
+    "data": [
+      {
+        "text": "soda",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "215029a7-c8ce-4031-bf3e-653db90729ff",
+    "data": [
+      {
+        "text": "ice ",
+        "userDefined": false
+      },
+      {
+        "text": "cream",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db5bce0b-5d2d-4ede-8850-d5b1394407c7",
+    "data": [
+      {
+        "text": "pepper ",
+        "userDefined": false
+      },
+      {
+        "text": "barbeque",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      },
+      {
+        "text": " chicken",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
